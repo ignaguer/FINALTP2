@@ -1,4 +1,5 @@
 import express from "express"
+import routes from "./Routes/sondaRoutes.js"
 
 const app = express()
 
